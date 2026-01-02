@@ -40,9 +40,9 @@ public class CustomerController {
 		return customerService.updateCustomer(customer);
 	}
 	
-	@ExceptionHandler(CustomerAlreadyExistsException.class)
-	@ResponseStatus(HttpStatus.CONFLICT)
-	public ErrorResponse handleCustomerAlreadyExistsException(CustomerAlreadyExistsException ex) {
-		return new ErrorResponse(HttpStatus.CONFLICT.value(), ex.getMessage());
-	}
+//	@ExceptionHandler(CustomerAlreadyExistsException.class)
+//	@ResponseStatus(HttpStatus.CONFLICT)
+//	public ErrorResponse handleCustomerAlreadyExistsException(CustomerAlreadyExistsException ex) {
+//		return new ErrorResponse(HttpStatus.CONFLICT.value(), ex.getMessage());
+//	}
 }

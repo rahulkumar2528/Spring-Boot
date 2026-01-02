@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="'Error ' + ${status}">Server Error</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+            text-align: center;
+            padding-top: 80px;
+        }
+        h1 {
+            font-size: 72px;
+            color: #e74c3c;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            color: #666;
+            font-size: 16px;
+        }
+        .path {
+            font-size: 14px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <h1>RAHUL KUMAR</h1>
+<h1 th:text="${status}">500</h1>
+
+<h2 th:text="${error}">Internal Server Error</h2>
+
+<p th:text="${message}">
+    Something went wrong on the server.
+</p>
+
+<p class="path">
+    Path: <span th:text="${path}">/api/test</span>
+</p>
+
+</body>
+</html>
