@@ -22,6 +22,7 @@ import com.app.vendorinvoice.constants.Constants;
 import com.app.vendorinvoice.dto.request.LoginRequest;
 import com.app.vendorinvoice.dto.request.RegisterRequest;
 import com.app.vendorinvoice.dto.response.AuthResponse;
+import com.app.vendorinvoice.exception.UnauthorizedException;
 import com.app.vendorinvoice.service.UserService;
 
 import lombok.extern.slf4j.Slf4j;
@@ -59,7 +60,7 @@ public class AuthController {
 			authenticationManager.authenticate(new UsernamePasswordAuthenticationToken(request.getUsername(), request.getPassword()));
 		} catch (BadCredentialsException e) {
 			log.info("Invalid Username or Password");
-			throw new BadCredentialsException("Invalid Username or Password");
+			throw new UnauthorizedException("Invalid Username or Password");
 		}
 		
 		UserDetails userDetails = userDetailsService.loadUserByUsername(request.getUsername());
