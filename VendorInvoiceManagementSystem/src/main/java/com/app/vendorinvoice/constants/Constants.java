@@ -10,4 +10,5 @@ public interface Constants {
 	public static final String CONT_INVOICEUPLOAD = "api/invoice-upload";
 	public static final String CONT_APPROVAL = "api/approvals";
 	public static final String CONT_PAYMENT = "api/payments";
+	public static final String CONT_DOCUMENT_UPLOAD = "api/dms";
 }
