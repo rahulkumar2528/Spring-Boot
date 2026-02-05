@@ -1,0 +1,71 @@
+2026-01-12T10:33:31.250+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 42374478ms
+2026-01-12T10:34:31.266+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 11ms
+2026-01-12T10:35:31.276+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2026-01-12T10:36:31.286+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2026-01-12T10:37:31.290+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2026-01-12T10:38:31.306+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 16ms
+2026-01-12T10:39:31.320+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 13ms
+2026-01-12T10:40:31.323+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2026-01-12T10:41:31.333+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2026-01-12T10:42:31.338+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2026-01-12T10:43:31.353+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 14ms
+2026-01-12T10:44:31.364+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2026-01-12T10:45:31.373+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2026-01-12T10:46:25.083+05:30  INFO 30172 --- [Eureka-Server-ELK] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 5
+2026-01-12T10:46:31.387+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 13ms
+2026-01-12T10:47:31.404+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 16ms
+2026-01-12T10:48:31.410+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 7ms
+2026-01-12T10:49:31.414+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2026-01-12T10:50:31.425+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 11ms
+2026-01-12T10:51:31.434+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 8ms
+2026-01-12T10:52:31.448+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 14ms
+2026-01-12T10:53:31.457+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2026-01-12T10:54:31.464+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 7ms
+2026-01-12T10:55:31.474+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2026-01-12T10:56:31.478+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2026-01-12T10:57:31.480+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2026-01-12T10:58:31.497+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 16ms
+2026-01-12T10:59:31.498+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2026-01-12T11:00:31.510+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 12ms
+2026-01-12T11:01:25.088+05:30  INFO 30172 --- [Eureka-Server-ELK] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 5
+2026-01-12T11:01:31.521+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2026-01-12T11:02:31.527+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2026-01-12T11:03:31.538+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2026-01-12T11:04:31.551+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 13ms
+2026-01-12T11:05:31.562+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2026-01-12T11:06:31.566+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2026-01-12T11:07:31.568+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2026-01-12T11:08:31.598+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 30ms
+2026-01-12T11:09:31.608+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 8ms
+2026-01-12T11:10:31.608+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2026-01-12T11:11:31.619+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2026-01-12T11:12:31.631+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 11ms
+2026-01-12T11:13:31.652+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 21ms
+2026-01-12T11:14:31.658+05:30  INFO 30172 --- [Eureka-Server-ELK] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2026-01-12T11:15:11.813+05:30  INFO 30172 --- [Eureka-Server-ELK] [RMI TCP Connection(887)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2026-01-12T11:15:11.855+05:30  INFO 30172 --- [Eureka-Server-ELK] [RMI TCP Connection(887)-127.0.0.1] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application EUREKA-SERVER-ELK with eureka with status DOWN
+2026-01-12T11:15:11.971+05:30  INFO 30172 --- [Eureka-Server-ELK] [RMI TCP Connection(887)-127.0.0.1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-01-12T11:15:12.354+05:30  INFO 30172 --- [Eureka-Server-ELK] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-01-12T11:15:12.366+05:30  INFO 30172 --- [Eureka-Server-ELK] [RMI TCP Connection(887)-127.0.0.1] o.s.c.n.e.server.EurekaServerBootstrap   : Shutting down Eureka Server..
+2026-01-12T11:15:12.366+05:30  INFO 30172 --- [Eureka-Server-ELK] [RMI TCP Connection(887)-127.0.0.1] c.n.eureka.DefaultEurekaServerContext    : Shutting down ...
+2026-01-12T11:15:12.395+05:30  INFO 30172 --- [Eureka-Server-ELK] [RMI TCP Connection(887)-127.0.0.1] c.n.eureka.DefaultEurekaServerContext    : Shut down
+2026-01-12T11:15:12.395+05:30  INFO 30172 --- [Eureka-Server-ELK] [RMI TCP Connection(887)-127.0.0.1] o.s.c.n.e.server.EurekaServerBootstrap   : Eureka Service is now shutdown...
+2026-01-12T11:15:12.402+05:30  INFO 30172 --- [Eureka-Server-ELK] [RMI TCP Connection(887)-127.0.0.1] c.n.eureka.DefaultEurekaServerContext    : Shutting down ...
+2026-01-12T11:15:12.402+05:30  INFO 30172 --- [Eureka-Server-ELK] [RMI TCP Connection(887)-127.0.0.1] c.n.eureka.DefaultEurekaServerContext    : Shut down
+2026-01-12T11:15:12.370+05:30 ERROR 30172 --- [Eureka-Server-ELK] [Eureka-Jersey3Client-Conn-Cleaner2] c.n.d.s.t.j.EurekaJersey3ClientImpl      : Cannot clean connections
+
+java.lang.IllegalStateException: Client instance has been closed.
+	at org.glassfish.jersey.internal.guava.Preconditions.checkState(Preconditions.java:169) ~[jersey-common-4.0.0.jar:na]
+	at org.glassfish.jersey.client.JerseyClient.checkNotClosed(JerseyClient.java:248) ~[jersey-client-4.0.0.jar:na]
+	at org.glassfish.jersey.client.JerseyClient.getConfiguration(JerseyClient.java:363) ~[jersey-client-4.0.0.jar:na]
+	at org.glassfish.jersey.client.JerseyClient.getConfiguration(JerseyClient.java:54) ~[jersey-client-4.0.0.jar:na]
+	at com.netflix.discovery.shared.transport.jersey3.EurekaJersey3ClientImpl$ConnectionCleanerTask.run(EurekaJersey3ClientImpl.java:338) ~[eureka-client-jersey3-2.0.5.jar:2.0.5]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+
+2026-01-12T11:15:12.425+05:30  INFO 30172 --- [Eureka-Server-ELK] [RMI TCP Connection(887)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2026-01-12T11:15:12.425+05:30  INFO 30172 --- [Eureka-Server-ELK] [RMI TCP Connection(887)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
