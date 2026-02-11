@@ -2,11 +2,14 @@ package com.app.vendorinvoice.entity;
 
 import java.time.OffsetDateTime;
 
+import com.app.vendorinvoice.constants.Constants;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.PrePersist;
 import jakarta.persistence.Table;
 import jakarta.persistence.UniqueConstraint;
 import lombok.Data;
@@ -48,4 +51,10 @@ public class Vendor {
 
 	@Column(name = "created_date")
 	private OffsetDateTime createdDate;
+	
+	@PrePersist
+    public void onCreate() {
+		this.createdDate = OffsetDateTime.now();
+        this.status = Constants.STATUS_ACTIVE;
+    }
 }

@@ -48,7 +48,7 @@ public class GlobalExceptionHandler {
 	public ResponseEntity<ErrorResponse> handleGeneric(Exception ex, HttpServletRequest request) {
 
 		ErrorResponse error = new ErrorResponse(HttpStatus.INTERNAL_SERVER_ERROR.value(),
-				"Something went wrong. Please contact support.", request.getRequestURI());
+				ex.getMessage(), request.getRequestURI());
 
 		return new ResponseEntity<>(error, HttpStatus.INTERNAL_SERVER_ERROR);
 	}

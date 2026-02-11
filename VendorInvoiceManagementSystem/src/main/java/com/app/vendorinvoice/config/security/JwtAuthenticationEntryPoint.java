@@ -1,6 +1,7 @@
 package com.app.vendorinvoice.config.security;
 
 import java.io.IOException;
+import java.util.Arrays;
 
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.web.AuthenticationEntryPoint;
@@ -27,7 +28,7 @@ public class JwtAuthenticationEntryPoint implements AuthenticationEntryPoint {
                 "Invalid Username or Password",
                 request.getRequestURI()
         );
-
+        
         ObjectMapper mapper = new ObjectMapper();
         response.getWriter().write(mapper.writeValueAsString(error));
 
