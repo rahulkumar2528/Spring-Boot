@@ -64,7 +64,7 @@ public class PurchaseOrder {
 
 	@PrePersist
 	void onCreate() {
-		this.poDate = OffsetDateTime.now();
+		this.createdDate = OffsetDateTime.now();
 		this.poDate = OffsetDateTime.now();
 	}
 }
